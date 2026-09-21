@@ -1,5 +1,7 @@
 # Vruttant Patoliya · Portfolio
 
+**Live:** https://vruttant-portfolio.vercel.app
+
 My developer portfolio, built as a small production-grade React app rather than a template. Deployed on Vercel.
 
 ![React](https://img.shields.io/badge/React_19-20232A?logo=react&logoColor=61DAFB)

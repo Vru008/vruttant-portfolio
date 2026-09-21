@@ -2,7 +2,7 @@
 <h3 align="center">Frontend / Full-Stack Developer · React + TypeScript · Jersey City, NJ</h3>
 
 <p align="center">
-  <a href="https://vru008.github.io"><img src="https://img.shields.io/badge/Portfolio-vru008.github.io-7c9cff?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://vruttant-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vruttant--portfolio.vercel.app-7c9cff?style=for-the-badge" alt="Portfolio" /></a>
   <a href="mailto:vruttantpatel007@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-3ddcc4?style=for-the-badge" alt="Email" /></a>
 </p>
 
@@ -16,7 +16,7 @@ I have 2+ years of experience shipping client web apps, and I'm currently doing 
 | **[JobMate](https://github.com/Vru008/job-mate)** · [live](https://job-mate-nu.vercel.app) | AI job marketplace for seekers, recruiters and admins, with a résumé ↔ job match score, AI cover letters and RBAC | React · TypeScript · Node · Express · MongoDB · Gemini |
 | **[JobPulse](https://github.com/Vru008/JobPulse)** | Serverless aggregator that sweeps ~90 company job boards 3× a day using bounded concurrency, dedupe and a GitHub Actions cron | JavaScript · Vercel Functions · MongoDB · Python |
 | **[HealthKeeper](https://github.com/Vru008/HealthKeeper)** | Patient and doctor appointment scheduling with calendar reminders and an AI assistant | React · Node · Express · MongoDB · Gemini |
-| **[Portfolio](https://github.com/Vru008/Vru008.github.io)** · [live](https://vru008.github.io) | Portfolio with an interactive terminal and live GitHub stats, fully tested | React 19 · TypeScript · Vite · Vitest |
+| **[Portfolio](https://github.com/Vru008/vruttant-portfolio)** · [live](https://vruttant-portfolio.vercel.app) | Portfolio with an interactive terminal and live GitHub stats, fully tested | React 19 · TypeScript · Vite · Vitest |
 
 ### 🛠️ Tech I use
 
