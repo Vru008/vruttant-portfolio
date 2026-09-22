@@ -1,42 +1,49 @@
 {
   "user": "Vru008",
-  "generatedAt": "2026-09-21T23:01:17+00:00",
-  "repoCount": 3,
+  "generatedAt": "2026-09-22T10:44:11+00:00",
+  "repoCount": 4,
   "totalStars": 0,
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 733978,
-      "percent": 76.7
+      "bytes": 734675,
+      "percent": 68.9
     },
     {
       "name": "CSS",
-      "bytes": 185986,
-      "percent": 19.4
+      "bytes": 211623,
+      "percent": 19.8
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 71230,
+      "percent": 6.7
     },
     {
       "name": "HTML",
-      "bytes": 33046,
-      "percent": 3.5
+      "bytes": 34544,
+      "percent": 3.2
     },
     {
       "name": "Python",
-      "bytes": 4197,
-      "percent": 0.4
+      "bytes": 14809,
+      "percent": 1.4
     }
   ],
   "react": {
     "repos": [
+      "vruttant-portfolio",
       "HealthKeeper",
       "job-mate"
     ],
-    "componentFiles": 66,
-    "hookFiles": 1
+    "componentFiles": 81,
+    "hookFiles": 7
   },
   "frameworks": [
     {
       "name": "React",
       "repos": [
+        "vruttant-portfolio",
         "HealthKeeper",
         "job-mate"
       ]
@@ -51,7 +58,20 @@
     {
       "name": "Framer Motion",
       "repos": [
+        "vruttant-portfolio",
         "job-mate"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "repos": [
+        "vruttant-portfolio"
+      ]
+    },
+    {
+      "name": "Vite",
+      "repos": [
+        "vruttant-portfolio"
       ]
     },
     {
@@ -78,6 +98,21 @@
     }
   ],
   "repos": [
+    {
+      "name": "vruttant-portfolio",
+      "url": "https://github.com/Vru008/vruttant-portfolio",
+      "homepage": "https://vruttant-portfolio.vercel.app",
+      "description": "React developer portfolio: React 19 + TypeScript + Vite + Motion, live GitHub stats, AI toolkit and an interactive terminal.",
+      "stars": 0,
+      "pushedAt": "2026-09-21T23:39:49Z",
+      "languages": [
+        "TypeScript",
+        "CSS",
+        "Python",
+        "HTML",
+        "JavaScript"
+      ]
+    },
     {
       "name": "JobPulse",
       "url": "https://github.com/Vru008/JobPulse",
